@@ -20,8 +20,8 @@
 
 title: 零博客 2020.Q4
 description: >- # this means to ignore newlines until "baseurl:"
-  Read blogs on demand.
-baseurl: "/blog/20q4" # the subpath of your site, e.g. /blog
+  Read blog on demand.
+baseurl: "/pen/20q4" # the subpath of your site, e.g. /blog
 url: "https://agora0.gitlab.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: agorahub
 
