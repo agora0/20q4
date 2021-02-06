@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  BLOG⓪
+#title: BLOG⓪
 permalink: /readme/
 comments_repo: agorahub/blog0
 comments_id: 1
 ---
 
-Read blogs on demand.
+Read blog on demand.
 
 | Source  | Importer   | Update |
 | :-----  | :-------   | :----- |
@@ -25,15 +25,6 @@ $ bundle exec jekyll serve
 
 $ JEKYLL_ENV=production bundle exec jekyll build
 # Copy the compiled codes from _site/ to html server.
-```
-
-## Import and Commit
-
-```
-$ cd .../gems/jekyll-import-{version}/lib/jekyll-import/importers/
-$ vim rssinitium.rb rssmatters.rb rssvocus.rb # Customize importers.
-
-$ ./_feed.sh  # Batch import and commit posts.
 ```
 
 ## List of Features

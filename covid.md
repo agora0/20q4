@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  C⓪V⓵D
+#title: C⓪V⓵D
 permalink: /covid/
 comments_repo: agorahub/blog0
 comments_id: 2
