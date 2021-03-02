@@ -16,8 +16,8 @@ This page relays the previous campaign -<br>
 
 ## How-to
 
-- Read and comment in the **Comments** below.
-- Vote 👍 / 👎 to the comments in [**Issue**](https://github.com/agorahub/blog0/issues/2) page.
+- Read and write the Comments below.
+- Vote 👍 / 👎 to the [Issue](https://github.com/agorahub/blog0/issues/2) comments.
 
 {% include comments.html %}
 
