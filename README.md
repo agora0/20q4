@@ -1,10 +1,12 @@
 ---
 layout: page
-#title: BLOG⓪
+title:  BLOG⓪
 permalink: /readme/
 comments_repo: agorahub/blog0
 comments_id: 1
 ---
+
+{% include comments.html %}
 
 Read blog on demand.
 
@@ -31,8 +33,6 @@ $ JEKYLL_ENV=production bundle exec jekyll build
 
 - [x] Batch and Automate - Check out the [issue comment](https://github.com/agorahub/news0/issues/1#issuecomment-597540617)
 - [x] Comment and Review - Check out the [issue comment](https://github.com/agorahub/blog0/issues/3#issuecomment-726799802)
-
-{% include comments.html %}
 
 ## Disclaimer
 
